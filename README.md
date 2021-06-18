@@ -17,4 +17,12 @@ The study uses Exploratory Data Analysis, i.e Univariate Analysis, Bivariate Ana
     What is the gender bias in owning a bank account?
     Are educated people more likely to own a bank account?
     What age group of people is most likely to own a bank account?
+ 
+ Setup/Installation Requirements
+
+Google Colab/Jupyter Notebook. -Pandas and Numpy Python libraries for data exploration and manipulation -Data cleaning tools Exploratory data analysis techniques. Known Bugs -There are no known bugs. Technologies Used-Python Programming, Libraries: Numpy & Pandas.}
+
+MIT License
+
+Noah Kandie Copyright (c)2021
     
